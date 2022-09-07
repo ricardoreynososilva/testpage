@@ -44,9 +44,11 @@ a:focus {
   color: #141414;
   font-weight: 600;
   font-size: 14px; }
+
   .logo img{   
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 100px;
+
    
     }
 
