@@ -52,7 +52,15 @@ a:focus {
    
     }
 
-
+    .fab .fa-tiktok {
+      color: #fff7f7;
+     
+    }
+    
+    .fab .fa-tiktok::after {
+      filter: drop-shadow(5px 5px 0 #F70250) contrast(150%) brightness(110%);
+      z-index: -1;
+    }
 
 ul,
 ol {
