@@ -1293,7 +1293,16 @@ img {
   background: #031246;
   cursor: pointer;
 }
-.circuloVerde:hover, .circuloRojo:hover, .circuloAzul:hover{
+.circuloBlanco {
+  width: 30px;
+  height: 30px;
+  -moz-border-radius: 0 100% 0 0;
+  -webkit-border-radius: 0 100% 0 0;
+  border-radius: 0 100% 0 0;
+  background: #f6f7fa;
+  cursor: pointer;
+}
+.circuloVerde:hover, .circuloRojo:hover, .circuloAzul:hover , .circuloBlanco:hover{
   width: 40px;
   height: 40px;
 
