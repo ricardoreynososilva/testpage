@@ -97,6 +97,7 @@
 @media (max-width: 680px) {
   .popup-whatsapp p {
     font-size: 0.9em;
+    bottom: 155px;
   }
 }
 .popup-whatsapp > .content-whatsapp.-top {
